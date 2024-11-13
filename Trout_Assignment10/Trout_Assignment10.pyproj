@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6e9443ae-b6c8-4567-b47f-07c9a1b669e8</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>dataPackage\bdsAPI.py</StartupFile>
+    <StartupFile>mainPackage\main.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
