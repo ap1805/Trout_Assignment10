@@ -22,7 +22,7 @@ class BEAApi:          # Current-Cost Net Stock of Private Fixed Assets, Equipme
                     print(f"Value for 'Computers and Peripheral Equipment' fixed assets in 2023 (millions of $): {value}")
                     return
 
-    def save_json_to_csv(self, data, filename='data/full_result.csv'):
+    def save_json_to_csv(self, data, filename='dataPackage/data/full_result.csv'):
         # Assuming 'Data' key contains relevant information
         if 'BEAAPI' in data and 'Results' in data['BEAAPI'] and 'Data' in data['BEAAPI']['Results']:
             data_entries = data['BEAAPI']['Results']['Data']
