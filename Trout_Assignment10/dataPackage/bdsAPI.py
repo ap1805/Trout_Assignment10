@@ -9,7 +9,7 @@
 # Creates a class to send an api request and has a method to get the data of the api and put it into a dictionary, 
 #                                               extract and print some interesting data to the console, and a method to save the endpoint data to a csv file.
 # Citations: Bill, https://www.geeksforgeeks.org/convert-json-to-csv-in-python/, https://www.geeksforgeeks.org/python-api-tutorial-getting-started-with-apis/,
-#            https://www.geeksforgeeks.org/python-dictionary/, https://stackoverflow.com/questions/4326658/how-to-index-into-a-dictionary
+#            https://www.geeksforgeeks.org/python-dictionary/, https://stackoverflow.com/questions/4326658/how-to-index-into-a-dictionary, https://apps.bea.gov/API/signup/
 # Anything else that's relevant:
 
 import requests
